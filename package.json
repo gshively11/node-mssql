@@ -3,7 +3,7 @@
     "name": "Patrik Simek",
     "url": "https://patriksimek.cz"
   },
-  "name": "mssql",
+  "name": "mssql-pool-patch",
   "description": "Microsoft SQL Server client for Node.js.",
   "keywords": [
     "database",
@@ -21,9 +21,9 @@
     "azure",
     "node-mssql"
   ],
-  "version": "5.0.0-beta.1",
+  "version": "1.0.0",
   "main": "index.js",
-  "repository": "github:tediousjs/node-mssql",
+  "repository": "github:gshively11/node-mssql",
   "license": "MIT",
   "dependencies": {
     "debug": "^3.2.6",
