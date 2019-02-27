@@ -1,3 +1,9 @@
+# Forked and Patched Temporarily, Please Read
+
+This branch is a temporary fork-and-patch to [node-mssql](https://github.com/tediousjs/node-mssql). It branches off an [unmerged PR](https://github.com/tediousjs/node-mssql/pull/808) and adds on some [extra features](https://github.com/tediousjs/node-mssql/pull/816) to fix a critical bug we're hitting in production. This package will be abandoned as soon as the fixes are merged upstream.
+
+We take no credit for anything in this module except for our tiny patch to add health observation to ConnectionPool.
+
 # node-mssql
 
 Microsoft SQL Server client for Node.js
